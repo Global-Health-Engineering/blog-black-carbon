@@ -1,7 +1,8 @@
-# From Smoke to Solution: Advancing Black Carbon as a Regulatory
-Pollutant
+# From Smoke to Solution: Advancing Black Carbon as a Regulatory Pollutant
+
 Saloni Vijay
 2024-07-16
+This blog post is published at: https://ghe-open.ch/blog/posts/2024-07-16-black-carbon
 
 ## What is Black Carbon?
 

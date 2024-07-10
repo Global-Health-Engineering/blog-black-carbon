@@ -1,0 +1,33 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  From Smoke to Solution: Advancing Black Carbon as a
+  Regulatory Pollutant
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Saloni
+    family-names: Vijay
+    email: svijay@ethz.ch
+    affiliation: ETH Zurich
+    orcid: 'https://orcid.org/0000-0001-5883-5308'
+identifiers:
+  - type: url
+    value: 'https://ghe-open.ch/blog/posts/2024-07-16-black-carbon'
+abstract: >-
+  Black carbon in the atmosphere contributes to climate
+  change and is a known carcinogen. Yet, this pollutant
+  remains largely unmonitored and unregulated. Despite its
+  dangers, there are no guidelines on safe levels of black
+  carbon in the air we breathe. It’s time to focus on
+  establishing effective regulations to monitor and control
+  black carbon concentrations in the atmosphere.
+keywords:
+  - air quality
+  - black carbon
+  - malawi
+license: CC-BY-4.0
