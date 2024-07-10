@@ -1,8 +1,12 @@
 # From Smoke to Solution: Advancing Black Carbon as a Regulatory Pollutant
 
-Saloni Vijay
-2024-07-16
 This blog post is published at: https://ghe-open.ch/blog/posts/2024-07-16-black-carbon
+
+<!-- badges: start -->
+[![License: CC BY
+4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgreen.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12705811.svg)](https://doi.org/10.5281/zenodo.12705811)
+<!-- badges: end -->
 
 ## What is Black Carbon?
 

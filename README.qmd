@@ -16,7 +16,7 @@ author:
 citation:
   type: post
   container-title: "From Smoke to Solution: Advancing Black Carbon as a Regulatory Pollutant"
-  doi: "TODO"
+  doi: "10.5281/zenodo.12705811"
   url: https://ghe.ethz.ch/ghe-blog-news.html
 execute:
   echo: false
@@ -26,6 +26,12 @@ draft: false
 image-alt: ""
 google-scholar: true
 ---
+
+<!-- badges: start -->
+[![License: CC BY
+4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgreen.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12705811.svg)](https://doi.org/10.5281/zenodo.12705811)
+<!-- badges: end -->
 
 ## What is Black Carbon?
 
