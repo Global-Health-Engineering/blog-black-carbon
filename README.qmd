@@ -7,12 +7,20 @@ categories:
   - black carbon
   - malawi
 author:
-  - name: Saloni Vijay
+  - given-names: Saloni
+    family-names: Vijay
     email: svijay@ethz.ch
-    orcid: 0000-0002-1825-0097
-    url: https://www.linkedin.com/in/saloni-vijay-9b9a51a7/
-    affiliation: Global Health Engineering, ETH Zurich
-    affiliation-url: https://ghe.ethz.ch
+    affiliation: ETH Zurich
+    orcid: 'https://orcid.org/0000-0001-5883-5308'
+  - given-names: Mian
+    family-names: Zhong
+    email: mzhong@ethz.ch
+    affiliation: ETH Zurich
+    orcid: https://orcid.org/0009-0009-4546-7214
+  - family-names: Tilley
+    given-names: Elizabeth
+    email: tilleye@ethz.ch
+    orcid: https://orcid.org/0000-0002-2095-9724
 citation:
   type: post
   container-title: "From Smoke to Solution: Advancing Black Carbon as a Regulatory Pollutant"
